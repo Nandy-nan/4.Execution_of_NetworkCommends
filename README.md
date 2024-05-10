@@ -62,6 +62,7 @@ while True:
 
 
 ## Output
+```
 
 ![Screenshot 2024-05-10 135547](https://github.com/Nandy-nan/4.Execution_of_NetworkCommends/assets/153698914/4248cd97-6e34-4f04-a9dd-d1c49b13c77a)
 
@@ -69,7 +70,9 @@ while True:
 ![Screenshot 2024-05-10 135557](https://github.com/Nandy-nan/4.Execution_of_NetworkCommends/assets/153698914/16c11d6c-2221-4aca-a945-a20629977e92)
 
 
-![Uploading Screenshot 2024-05-10 135535.png…]()
+![Screenshot 2024-05-10 135535](https://github.com/Nandy-nan/4.Execution_of_NetworkCommends/assets/153698914/c45928b3-803e-4b7a-8f02-d7fefefc29a9)
+```
+
 
 
 ## Result
